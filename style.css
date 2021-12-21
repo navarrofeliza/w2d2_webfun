@@ -4,6 +4,42 @@
     font-family: sans-serif;
 }
 
+.nav{
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 50px;
+}
+
+.nav-h1{
+    padding: 3px;
+}
+
+.title{
+    text-align: center;
+}
+
+.page{
+    display: flex;
+}
+
+.user img {
+    width: 150px;
+    height: 125px;
+    padding-top: 25px;
+    border-radius: 100%;
+}
+
+.user{
+    border: 1px solid black;
+    width: 200px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+
 .contents{
     width: 500px;
     height: 150px;
