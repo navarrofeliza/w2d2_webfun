@@ -65,3 +65,9 @@
 .like-card{
     display: flex;
 }
+
+.superdiv{
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+}
